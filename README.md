@@ -30,6 +30,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **PNPM**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Yarn**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **React Query**              |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Docker**                   |   ![done][done]   |    ![done][done]    |                  |
 | **Auth0**                    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **KrakenD**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **GoogleMaps API**           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
