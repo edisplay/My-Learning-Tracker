@@ -41,6 +41,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Markdown**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Node.js**                  |   ![done][done]   |    ![done][done]    |                  |
 | **GitHub**                   |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **GitHub Actions**           |   ![done][done]   |    ![done][done]    |                  |
 | **Lokalise**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **ES6**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Command line**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
